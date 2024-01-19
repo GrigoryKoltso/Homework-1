@@ -1,0 +1,20 @@
+h1 {
+  color: rgba(0, 0, 0, 0.884);
+}
+
+.main {
+  background-color: rgb(233, 229, 229);
+  padding: 21px;
+  
+}
+
+div>div {
+  background-color: #34495e;
+  border: rgb(233, 229, 229);
+  border-radius: 20px 
+  
+}
+
+p {
+    padding: 21px;
+}
